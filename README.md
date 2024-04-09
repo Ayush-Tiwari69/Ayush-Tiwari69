@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayush-Tiwari
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Web development 
+- 👀 I’m interested in Programming
+- 💞️ I’m looking to collaborate on Flutter app development 
 - 📫 How to reach me 9340661131
 
 <!---
